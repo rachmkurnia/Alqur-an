@@ -1,0 +1,11 @@
+.card-surah{
+  border-radius: 3vh;
+}
+
+.card-surah:hover {
+  transform: scale(1.05);
+  background-color: rgb(209, 255, 196);
+  box-shadow: 1px 5px .8px .1px rgb(141, 130, 116) ;
+  transition: all .5s;
+}
+
